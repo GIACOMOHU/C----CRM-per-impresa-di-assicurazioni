@@ -1,3 +1,9 @@
+// PROJECT: CRM per impresa di assicurazioni
+
+// PATH: ProfessionAI Master AI Engineering Course 2 Programmazione ad alte prestazioni con C++
+
+// AUTHOR: Giacomo Abramo
+
 #include <bits/stdc++.h>
 #include <fstream>
 
